@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1589842676 source:c:\users\maxi\desktop\2010\funcionesparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"dataNote.h"
+
+1589840698 c:\users\maxi\desktop\2010\funcionesparcial\datanote.h
+
